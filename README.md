@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![alt text](tenor.gif "developers")
+
 
 <!--
 **gutmox/gutmox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
